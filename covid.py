@@ -74,6 +74,7 @@ def main():
     harmonized = harmonize(vacc_data, hosp_data)
     # visualize(harmonized)
     print(time.time() - start)
+    print("this is a change")
 
 
 main()
@@ -82,4 +83,3 @@ main()
 # output = []
 # for row in vacc_file.json():
 #     output.append(row.get("end_date"))
-print("We are all done")
