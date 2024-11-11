@@ -77,8 +77,9 @@ def main():
 
 
 main()
-print("All done!")
+
 
 # output = []
 # for row in vacc_file.json():
 #     output.append(row.get("end_date"))
+print("We are all done")
