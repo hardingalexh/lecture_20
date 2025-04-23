@@ -81,3 +81,4 @@ main()
 # output = []
 # for row in vacc_file.json():
 #     output.append(row.get("end_date"))
+print("we did it!")
